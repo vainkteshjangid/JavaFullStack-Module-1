@@ -5,6 +5,7 @@ import java.util.Scanner;
 import com.cg.services.MyServices;
 
 public class MainActivity {
+	//
 	public static void main(String args[]) {
 		
 		String str;
